@@ -13,8 +13,6 @@
     ],
     "homepage": "http://dlin.me",
 
-    "version": "0.9.0",
-
     "minimum-stability": "stable",
     "target-dir": "Dlin/Bundle/SaasuBundle",
 
@@ -24,12 +22,12 @@
 
     "require": {
         "php": ">=5.3.8",
-        "dlin/saasu": ">=1.0"
+        "dlin/saasu": "dev-master"
     },
 
     "require-dev": {
         "symfony/framework-bundle": ">=2.0",
-        "symfony/finder": "2.3.*"
+        "symfony/finder": "~2.3.0"
     }
 
 
